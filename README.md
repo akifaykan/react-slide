@@ -1,0 +1,1 @@
+# React ile slider yapımı
